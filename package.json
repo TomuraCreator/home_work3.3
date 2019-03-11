@@ -1,0 +1,21 @@
+{
+  "name": "tery",
+  "version": "1.0.0",
+  "description": "домашняя работа 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomuraCreator/home_work3.1.git"
+  },
+  "author": "Tomura_Kreator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomuraCreator/home_work3.1/issues"
+  },
+  "homepage": "https://github.com/TomuraCreator/home_work3.1#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
